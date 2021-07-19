@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 #### I'm a data analyst and part-time Master's student in Statistics.
 
-- 🔭 I'm currently working on building R packages for mixture modeling.
-- 🌱 I’m currently learning Bayesian methods and bootstrap
-- ⚙️ My favs are `.py`, `.r`, `.sql`
+- I spend the days understanding drivers of business revenue and efficiency and turn raw data into an asset which informs decision-making.
+- I spend the evenings studying Master's modules, doing research or reading.
+- Current pet project involves building R packages for mixture modeling.
+- Strategy games occupy my downtime.
+- My favs are `.py`, `.r` and `.sql`
+- Mathematical Statistics alum at [University of South Africa](https://www.unisa.ac.za/)
 
 #### Get in Touch
 
