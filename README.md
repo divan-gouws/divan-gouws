@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Current pet project involves building R packages for mixture modeling.
 - Strategy games occupy my downtime.
 - My favs are `.py`, `.r` and `.sql`
-- Mathematical Statistics alum at [University of South Africa](https://www.unisa.ac.za/)
+- Mathematical Statistics alum of [University of South Africa](https://www.unisa.ac.za/)
 
 #### Get in Touch
 
