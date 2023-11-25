@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a data analyst and part-time Master's student in Statistics.
+#### I'm a data analyst and Master's graduate in Statistics.
 
-- I spend the days understanding drivers of business revenue and efficiency and turn raw data into an asset which informs decision-making.
-- I spend the evenings studying Master's modules, doing research or reading.
+- I spend my days coding, doing research or reading.
+- I spend my evenings with my family.
 - Current pet project involves building R packages for mixture modeling.
-- Strategy games occupy my downtime.
+- Strategy games occupy some of my downtime.
 - My favs are `.py`, `.r` and `.sql`
-- Mathematical Statistics alum of [University of South Africa](https://www.unisa.ac.za/)
+- Mathematical Statistics alum of [University of Pretoria](https://www.up.ac.za/)
 
 #### Get in Touch
 
