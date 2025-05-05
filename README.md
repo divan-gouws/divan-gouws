@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 #### I'm a data analyst and Master's graduate in Statistics.
 
-- I spend my days coding, doing research or reading.
-- I spend my evenings with my family.
-- Current pet project involves building R packages for mixture modeling.
-- Strategy games occupy some of my downtime.
-- My favs are `.py`, `.r` and `.sql`
+- Family first.
+- Lover of Excel e-sports.
+- Level 2 CFA candidate
+- My favourite languages are `.py`, `.r` and `.sql`
 - Mathematical Statistics alum of [University of Pretoria](https://www.up.ac.za/)
 
 #### Get in Touch
