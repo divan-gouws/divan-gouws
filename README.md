@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 #### I'm a data analyst and Master's graduate in Statistics.
 
-- Family first.
 - Lover of Excel e-sports.
 - Level 2 CFA candidate
 - My favourite languages are `.py`, `.r` and `.sql`
